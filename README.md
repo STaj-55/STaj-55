@@ -4,13 +4,17 @@
 
 Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating in December 2024 with a Bachelor's degree in Network and Computer Security.
 
+## My Interests
+
+I'm interested in Cybersecurity with different fields like Security Architecture, Digital Forensics, Incident Response, Vulnerability Management, Network Security, and Automation!
+
 ## Certifications / Certificates
--**CompTIA Network+
--**CompTIA Security+
--**CompTIA PenTest+ (Pending December for Score)
--**CompTIA CySA+ (Pending October)
--**Google Cybersecurity Professional Certificate
--**Cisco Network Automation Engineering Fundamentals Certificate
+- **CompTIA Network+**
+- **CompTIA Security+**
+- **CompTIA PenTest+ (Pending December for Score)**
+- **CompTIA CySA+ (Pending October)**
+- **Google Cybersecurity Professional Certificate**
+- **Cisco Network Automation Engineering Fundamentals Certificate**
 
 ## Here are some projects I worked on in the past
 
