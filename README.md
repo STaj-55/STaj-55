@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi there, welcome to my GitHub Profile! 👋
 
+## About Me
+
+Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating in December 2024 with a Bachelor's degree in Network and Computer Security.
+
+## Certifications / Certificates
+CompTIA Network+
+CompTIA Security+
+CompTIA PenTest+ (Pending December for Score)
+CompTIA CySA+ (Pending October)
+Google Cybersecurity Professional Certificate
+Cisco Network Automation Engineering Fundamentals Certificate
+
+## Here are some projects I worked on in the past
+
+## Connect with me on LinkedIn
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sultantaj/)
 <!--
 **STaj-55/STaj-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
