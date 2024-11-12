@@ -6,7 +6,7 @@ Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating i
 
 ## My Interests
 
-I'm interested in Cybersecurity with different fields like Security Architecture, Digital Forensics, Incident Response, Vulnerability Management, Network Security, and Automation!
+I'm interested in Cybersecurity with different fields like Infrastructure, Digital Forensics, Incident Response, Vulnerability Management, Network Security, Automation and Machine Learning!
 
 ## Certifications / Certificates
 - **CompTIA Network+**
@@ -21,6 +21,8 @@ I'm interested in Cybersecurity with different fields like Security Architecture
 [Homelab](https://github.com/STaj-55/HomeLab)
 
 [Cybersecurity Incident Response Database](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)
+
+[Palo Alto Cortex XSOAR / GCP Cloud Security](https://github.com/STaj-55/GCP_XSOAR_Labs)
 
 [Password Manager](https://github.com/STaj-55/PasswordManager)
 
