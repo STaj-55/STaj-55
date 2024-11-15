@@ -16,6 +16,11 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Network Automation Engineering Fundamentals Certificate**
 
+## What I'm  working on now
+- **Senior Capstone: Deep Learning Zero Day Detection**
+- **Homelab - Setting up Services**
+- **CASP+ Study on the side**
+
 ## Here are some projects I worked on in the past
 
 [Homelab](https://github.com/STaj-55/HomeLab)
