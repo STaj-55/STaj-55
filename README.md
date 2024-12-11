@@ -24,11 +24,11 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 
 [Ansible Workshop for Cybersecurity Club](https://github.com/STaj-55/Ansible-Workshop)
 
-[Cybersecurity Incident Response Database](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)
+[Cybersecurity Incident Response Database using MySQL](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)
 
-[Palo Alto Cortex XSOAR / GCP Cloud Security](https://github.com/STaj-55/GCP_XSOAR_Labs)
+[Palo Alto Cortex XSOAR Labs on Coursera](https://github.com/STaj-55/GCP_XSOAR_Labs)
 
-[Scapy Network Scanner](https://github.com/STaj-55/Scapy-Network-Scanner)
+[Scapy Network Scanner | Wireless Systems and Security Project](https://github.com/STaj-55/Scapy-Network-Scanner)
 
 ## Connect with me on LinkedIn
 
