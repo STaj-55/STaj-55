@@ -10,26 +10,25 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 
 ## Certifications / Certificates
 - **CompTIA Network+**
-- **CompTIA Security+**
-- **CompTIA PenTest+ (Pending December for Score)**
-- **CompTIA CySA+**
+- **CompTIA Security++**
+- **CompTIA CySA++**
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Network Automation Engineering Fundamentals Certificate**
 
 ## What I'm  working on now
-- **Senior Capstone: Deep Learning Zero Day Detection**
+- **AWS Homelab**
 - **Homelab - Setting up Services**
 - **CASP+ Study on the side**
 
 ## Here are some projects I worked on in the past
 
-[Homelab](https://github.com/STaj-55/HomeLab)
+[Ansible Workshop for Cybersecurity Club](https://github.com/STaj-55/Ansible-Workshop)
 
 [Cybersecurity Incident Response Database](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)
 
 [Palo Alto Cortex XSOAR / GCP Cloud Security](https://github.com/STaj-55/GCP_XSOAR_Labs)
 
-[Password Manager](https://github.com/STaj-55/PasswordManager)
+[Scapy Network Scanner](https://github.com/STaj-55/Scapy-Network-Scanner)
 
 ## Connect with me on LinkedIn
 
