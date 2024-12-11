@@ -10,8 +10,8 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 
 ## Certifications / Certificates
 - **CompTIA Network+**
-- **CompTIA Security++**
-- **CompTIA CySA++**
+- **CompTIA Security+**
+- **CompTIA CySA+**
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Network Automation Engineering Fundamentals Certificate**
 
