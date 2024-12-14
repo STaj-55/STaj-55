@@ -6,7 +6,7 @@ Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating i
 
 ## My Interests
 
-I'm interested in Cybersecurity with different fields like Vulnerability Management, Penetration Testing, and Incident Response. I also enjoy Infrastructure, Network Security, Automation and Machine Learning!
+I'm interested in Cybersecurity with different fields like Vulnerability Management, Ethical Hacking, and Incident Response. I also enjoy Infrastructure, Network Security, Automation and Machine Learning!
 
 ## Certifications / Certificates
 - **CompTIA Network+**
