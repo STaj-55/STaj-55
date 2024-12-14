@@ -15,12 +15,13 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Network Automation Engineering Fundamentals Certificate**
 
-## What I'm  working on now
-- **AWS Homelab**
+## What I'm working on now
 - **Homelab - Setting up Services**
 - **CASP+ Study on the side**
 
 ## Here are some projects I worked on in the past
+
+[Homelab](https://github.com/STaj-55/Homelab)
 
 [Ansible Workshop for Cybersecurity Club](https://github.com/STaj-55/Ansible-Workshop)
 
