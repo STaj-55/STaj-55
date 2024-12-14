@@ -6,7 +6,7 @@ Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating i
 
 ## My Interests
 
-I'm interested in Cybersecurity with different fields like Infrastructure, Digital Forensics, Incident Response, Vulnerability Management, Network Security, Automation and Machine Learning!
+I'm interested in Cybersecurity with different fields like Vulnerability Management, Penetration Testing, and Incident Response. I also enjoy Infrastructure, Network Security, Automation and Machine Learning!
 
 ## Certifications / Certificates
 - **CompTIA Network+**
@@ -14,9 +14,11 @@ I'm interested in Cybersecurity with different fields like Infrastructure, Digit
 - **CompTIA CySA+**
 - **Google Cybersecurity Professional Certificate**
 - **Cisco Network Automation Engineering Fundamentals Certificate**
+- **AWS Cloud Practitioner Essentials**
 
 ## What I'm working on now
 - **Homelab - Setting up Services**
+- **LetsDefend SOC Learning Path**
 - **CASP+ Study on the side**
 
 ## Here are some projects I worked on in the past
