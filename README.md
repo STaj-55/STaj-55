@@ -25,6 +25,8 @@ I'm interested in Cybersecurity with different fields like Vulnerability Managem
 
 [Homelab](https://github.com/STaj-55/Homelab)
 
+[LetsDefend Hands-on Learning](https://github.com/STaj-55/LetsDefend)
+
 [SUNY Polytechnic Institute: Real-Time Threat Dection using Machine Learning](https://github.com/STaj-55/Capstone)
 
 [Ansible Workshop for Cybersecurity Club](https://github.com/STaj-55/Ansible-Workshop)
