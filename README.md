@@ -23,7 +23,7 @@ I'm interested in Cybersecurity with different fields like Vulnerability Managem
 
 ## Here are some projects I worked on in the past
 
-[Homelab](https://github.com/STaj-55/Homelab)
+[AWS: Security Operations Center](https://github.com/STaj-55/AWS-SOC)
 
 [Phishing Analysis](https://github.com/STaj-55/JobPhishing)
 
