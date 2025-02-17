@@ -17,9 +17,10 @@ I'm interested in Cybersecurity with different fields like Vulnerability Managem
 - **AWS Cloud Practitioner Essentials**
 
 ## What I'm working on now
-- **SecureVault Program**
+- **CaaC Personal Project**
 - **LetsDefend and TryHackMe Learning**
-- **AWS Solutions Architect Associate | AWS Security Speciality**
+- **AWS Solutions Architect Associate --> AWS Security Speciality**
+- **SC-200 Microsoft Certification**
 
 ## Here are some projects I worked on in the past
 
