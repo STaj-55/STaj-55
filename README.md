@@ -12,15 +12,13 @@ I'm interested in Cybersecurity with different fields like Vulnerability Managem
 - **CompTIA Network+**
 - **CompTIA Security+**
 - **CompTIA CySA+**
-- **Google Cybersecurity Professional Certificate**
-- **Cisco Network Automation Engineering Fundamentals Certificate**
-- **AWS Cloud Practitioner Essentials**
+- **Microsoft SC-200: Security Operations Analyst Associate**
+- **TryHackMe Security Analyst Level 1**
 
 ## What I'm working on now
-- **CaaC Personal Project**
-- **LetsDefend and TryHackMe Learning**
+- **iOS Cert Study App**
+- **AWS Red Teaming**
 - **AWS Solutions Architect Associate --> AWS Security Speciality**
-- **SC-200 Microsoft Certification**
 
 ## Here are some projects I worked on in the past
 
