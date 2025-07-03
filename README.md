@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi everyone! I'm Sultan Taj, a senior at SUNY Polytechnic Institute graduating in December 2024 with a Bachelor's degree in Network and Computer Security.
+Hi everyone! I'm Sultan Taj, I graduated from SUNY Polytechnic Institute with a Bachelors' in Network and Computer Security. Currently I work in Security Operations, and love investigating incidents!
 
 ## My Interests
 
-I'm interested in Cybersecurity with different fields like Vulnerability Management, Ethical Hacking, and Incident Response. I also enjoy Infrastructure, Network Security, Automation and Machine Learning!
+I'm interested in Cloud Security and currently building out my skillset for securing cloud environments. I've grown a strong passion for Detection Engineering and Incident Response and would love to incorporate it within Cloud Security.
 
 ## Certifications / Certificates
 - **CompTIA Network+**
