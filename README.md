@@ -16,7 +16,7 @@ I'm interested in Cloud Security and currently building out my skillset for secu
 - **TryHackMe Security Analyst Level 1**
 
 ## What I'm working on now
-- **iOS Cert Study App**
+<!-- **iOS Cert Study App**-->
 - **AWS Red Teaming**
 - **AWS Solutions Architect Associate --> AWS Security Speciality**
 
