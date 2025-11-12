@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi everyone! I'm Sultan Taj, I graduated from SUNY Polytechnic Institute with a Bachelors' in Network and Computer Security. Currently I work in Security Operations, and love investigating incidents!
+Hi everyone! I'm Sultan Taj, I graduated from SUNY Polytechnic Institute with a Bachelors' in Network and Computer Security. Currently I work as a Security Engineer, managing SaaS tools and creating my own security platforms!
 
 ## My Interests
 
