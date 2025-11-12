@@ -17,8 +17,8 @@ I'm interested in Cloud Security and currently building out my skillset for secu
 
 ## What I'm working on now
 <!-- **iOS Cert Study App**-->
-- **Intro to AWS Pentesting Course - Tyler Ramsbey**
-- **AWS Solutions Architect Associate (End of July) --> AWS Security Speciality**
+- **Pwned Labs and TryHackMe in preparation for ACRTP**
+- **AWS Solutions Architect Associate --> AWS Security Speciality**
 
 ## Here are some projects I worked on in the past
 
