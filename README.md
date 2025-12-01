@@ -1,57 +1,152 @@
-## Hi there, welcome to my GitHub Profile! 👋
+<!-- ===================================================== -->
+<!-- 🔥 CUSTOM HEADER WITH ROLES + BADGES -->
+<!-- ===================================================== -->
 
-## About Me
+<h1 align="center">Hey, I'm Sultan 👋</h1>
 
-Hi everyone! I'm Sultan Taj, I graduated from SUNY Polytechnic Institute with a Bachelors' in Network and Computer Security. Currently I work as a Security Engineer, managing SaaS tools and creating my own security platforms!
+<p align="center">
+  <b>Endpoint Security Engineer</b> • 
+  <b>Cloud Security</b> • 
+  <b>Detection Engineering</b> • 
+  <b>Incident Response</b>
+</p>
 
-## My Interests
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sultantaj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/STaj-55">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-I'm interested in Cloud Security and currently building out my skillset for securing cloud environments. I've grown a strong passion for Detection Engineering and Incident Response and would love to incorporate it within Cloud Security.
+<br/>
 
-## Certifications / Certificates
-- **CompTIA Network+**
-- **CompTIA Security+**
-- **CompTIA CySA+**
-- **Microsoft SC-200: Security Operations Analyst Associate**
-- **TryHackMe Security Analyst Level 1**
+---
 
-## What I'm working on now
-<!-- **iOS Cert Study App**-->
-- **Pwned Labs and TryHackMe in preparation for ACRTP**
-- **AWS Solutions Architect Associate --> AWS Security Speciality**
+# 🧑‍💻 About Me
 
-## Here are some projects I worked on in the past
+Hi! I'm **Sultan Taj**, currently working as an **Endpoint Security Engineer**, and building specialized tooling for SaaS security, cloud security, and threat detection.
 
-[(Threat Detection / Cloud Security) AWS: Security Operations Center](https://github.com/STaj-55/AWS-SOC)
+- 🛡️ I focus on **endpoint security**, **detections**, and **security automation**  
+- ☁️ Working toward mastering **AWS Cloud Security**  
+- ⚙️ I break things in labs so production stays safe  
+- 🚀 I love building projects that make security engineering more operational & scalable  
 
-[(SQL Query Skills) Cybersecurity Incident Response Database using MySQL](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)
+---
 
-[(University Capstone) SUNY Polytechnic Institute: Real-Time Threat Dection using Machine Learning](https://github.com/STaj-55/Capstone)
+<h2>🏅 Certifications</h2>
 
-[(Automation) Ansible Workshop for Cybersecurity Club](https://github.com/STaj-55/Ansible-Workshop)
+<p align="left">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate_badge.4b6b0c2c85093e449d5ac3a0d650ba7a5f467ea0.png" height="90"/>
+  <img src="https://images.credly.com/size/340x340/images/e6a56f6f-639d-47ff-8de4-8a067a4dd9ab/CompTIA_Network_2B.png" height="90"/>
+  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-4d52-8a45-cc6da9cf2f7f/CSS_Security_2B.png" height="90"/>
+  <img src="https://images.credly.com/size/340x340/images/fab0a3b6-afe1-4b9a-86ac-5c2f9bdb4c57/CompTIA_CySA_2B.png" height="90"/>
+  <img src="https://images.credly.com/images/040e2a43-b63f-4c3e-98c7-cd7356a83819/security-operations-analyst-associate-600x600.png" height="90"/>
+  <img src="https://assets.tryhackme.com/img/badges/security-analyst-level-1.svg" height="90"/>
+</p>
 
-[Real-Life Phishing Analysis](https://github.com/STaj-55/JobPhishing)
 
-[LetsDefend Hands-on Learning](https://github.com/STaj-55/LetsDefend)
+---
 
-[Palo Alto Cortex XSOAR Labs on Coursera](https://github.com/STaj-55/GCP_XSOAR_Labs)
+# 🛠️ Tech & Tooling  
+### Security / IR / Detection
+<p>
+  <img src="https://img.shields.io/badge/CrowdStrike-E03A3E?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Security-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rapid7%20InsightVM-F37A20?style=for-the-badge&logo=rapid7&logoColor=white"/>
+</p>
 
-<!--[Scapy Network Scanner | Wireless Systems and Security Project](https://github.com/STaj-55/Scapy-Network-Scanner)-->
+### Cloud & Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-## Connect with me on LinkedIn
+### Languages & Dev
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FA7343?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sultantaj/)
+---
+
+# 🎯 What I'm Working On
+
+- 🧨 **Pwned Labs + TryHackMe (ACRTP prep)**  
+- ☁️ **AWS Solutions Architect → AWS Security Specialty**  
+- 🔍 Building more **detection engineering projects** + advanced cloud labs  
+
+---
+
+# 🚀 Featured Projects
+
+### 🛰️ Threat Detection & Cloud Security  
+🔗 **[AWS: Security Operations Center](https://github.com/STaj-55/AWS-SOC)**  
+A full AWS SOC with detections, SIEM connectors, incident pipelines, and attacker technique emulation.
+
+### 🧮 Incident Response Engineering  
+🔗 **[Cybersecurity IR Database – MySQL](https://github.com/STaj-55/Cybersecurity_Incident_Response_Database)**  
+A SQL-driven IR case management and IOC tracking system.
+
+### 🤖 Machine Learning for Security  
+🔗 **[SUNY Poly Capstone – ML Threat Detection](https://github.com/STaj-55/Capstone)**  
+Real-time ML-based anomaly detection for security events.
+
+### ⚙️ Infrastructure & Automation  
+🔗 **[Ansible Security Workshop](https://github.com/STaj-55/Ansible-Workshop)**  
+Hands-on lessons for infra automation aimed at security teams.
+
+---
+
+# 🧪 Additional Labs
+
+- **[Real-Life Phishing Analysis](https://github.com/STaj-55/JobPhishing)**  
+- **[LetsDefend SOC Labs](https://github.com/STaj-55/LetsDefend)**  
+- **[Palo Alto XSOAR Labs](https://github.com/STaj-55/GCP_XSOAR_Labs)**  
+
+---
+
+# 🤝 Connect
+
+💼 LinkedIn: **[linkedin.com/in/sultantaj](https://www.linkedin.com/in/sultantaj/)**  
+🧑‍🚀 Open to collabs in **Cloud Security, IR, or Detection Engineering**.
+
+---
+
+<!-- ===================================================== -->
+<!-- OPTIONAL EXTRAS BELOW — UNCOMMENT IF YOU WANT THEM -->
+<!-- ===================================================== -->
+
 <!--
-**STaj-55/STaj-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=STaj-55&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STaj-55&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=STaj-55&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=STaj-55&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 -->
+
