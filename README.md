@@ -40,12 +40,12 @@ Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
 <h2>🏅 Certifications</h2>
 
 <p align="left">
-  <img src="assets/badges/network+.png" height="85"/>
-  <img src="assets/badges/CompTIA Security+.png" height="85"/>
-  <img src="assets/badges/Comptia CySA+.png" height="85"/>
-  <img src="assets/badges/thmsal1.png" height="85"/>
-  <img src="assets/badges/sc-200.png" height="85"/>
-  <img src="assets/badges/awssaa.png" height="85"/>
+  <img src="badges/network+.png" height="85"/>
+  <img src="badges/CompTIA Security+.png" height="85"/>
+  <img src="badges/Comptia CySA+.png" height="85"/>
+  <img src="badges/thmsal1.png" height="85"/>
+  <img src="badges/sc-200.png" height="85"/>
+  <img src="badges/awssaa.png" height="85"/>
 </p>
 
 
@@ -60,16 +60,6 @@ Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rapid7%20InsightVM-F37A20?style=for-the-badge&logo=rapid7&logoColor=white"/>
-</p>
-
-### Cloud & Infra
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### Languages & Dev
@@ -87,7 +77,7 @@ Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
 # 🎯 What I'm Working On
 
 - 🧨 **Pwned Labs + TryHackMe (ACRTP prep)**  
-- ☁️ **AWS Solutions Architect → AWS Security Specialty**  
+- ☁️ **AWS Security Specialty**  
 - 🔍 Building more **detection engineering projects** + advanced cloud labs  
 
 ---
