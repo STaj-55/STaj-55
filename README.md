@@ -29,24 +29,23 @@
 
 # 🧑‍💻 About Me
 
-Hi! I'm **Sultan Taj**, currently working as an **Endpoint Security Engineer**, and building specialized tooling for SaaS security, cloud security, and threat detection.
+Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
 
-- 🛡️ I focus on **endpoint security**, **detections**, and **security automation**  
-- ☁️ Working toward mastering **AWS Cloud Security**  
-- ⚙️ I break things in labs so production stays safe  
-- 🚀 I love building projects that make security engineering more operational & scalable  
+- Endpoint Security (CrowdStrike)
+- Incident Response & Threat Detection
+- Cloud Security (**AWS** / _Azure_)
 
 ---
 
 <h2>🏅 Certifications</h2>
 
 <p align="left">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate_badge.4b6b0c2c85093e449d5ac3a0d650ba7a5f467ea0.png" height="90"/>
-  <img src="https://images.credly.com/size/340x340/images/e6a56f6f-639d-47ff-8de4-8a067a4dd9ab/CompTIA_Network_2B.png" height="90"/>
-  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-4d52-8a45-cc6da9cf2f7f/CSS_Security_2B.png" height="90"/>
-  <img src="https://images.credly.com/size/340x340/images/fab0a3b6-afe1-4b9a-86ac-5c2f9bdb4c57/CompTIA_CySA_2B.png" height="90"/>
-  <img src="https://images.credly.com/images/040e2a43-b63f-4c3e-98c7-cd7356a83819/security-operations-analyst-associate-600x600.png" height="90"/>
-  <img src="https://assets.tryhackme.com/img/badges/security-analyst-level-1.svg" height="90"/>
+  <img src="assets/badges/network+.png" height="85"/>
+  <img src="assets/badges/CompTIA Security+.png" height="85"/>
+  <img src="assets/badges/Comptia CySA+.png" height="85"/>
+  <img src="assets/badges/thmsal1.png" height="85"/>
+  <img src="assets/badges/sc-200.png" height="85"/>
+  <img src="assets/badges/awssaa.png" height="85"/>
 </p>
 
 
