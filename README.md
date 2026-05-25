@@ -34,6 +34,7 @@ Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
 - Endpoint Security (CrowdStrike)
 - Incident Response & Threat Detection
 - Cloud Security (**AWS** / _Azure_)
+- Offensive Security
 
 ---
 
@@ -76,9 +77,9 @@ Hi! I'm **Sultan Taj**, currently working as an **Enterprise Security Engineer**
 
 # 🎯 What I'm Working On
 
-- 🧨 **Pwned Labs + TryHackMe (ACRTP prep)**  
-- ☁️ **AWS Security Specialty**  
-- 🔍 Building more **detection engineering projects** + advanced cloud labs  
+- 🧨 **Self-learning & Video Editing**  
+- ☁️ **Cert Grind: AWS Security Specialty / eCIR, eCTHP**  
+- 🔍 **Building some projects to expand my skillset in other areas** 
 
 ---
 
